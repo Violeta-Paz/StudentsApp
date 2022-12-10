@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudentsApp</string>
+    <string-array name="Option_Class">
+
+        <item>Data base</item>
+        <item>Backend</item>
+        <item>Frontend</item>
+        <item>Hardware</item>
+        <item>IOT</item>
+        <item>Security</item>
+        <item>DevSecOps</item>
+
+    </string-array>
+
+</resources>
